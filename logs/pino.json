@@ -1,0 +1,5 @@
+{"level":30,"time":1548145481724,"msg":"GET / -> Request started..","pid":10122,"hostname":"titolulu-HP-Laptop-15q-ds0xxx","id":1,"request":{"requestUrl":"http://localhost:3000/","method":"GET"},"requestHeaders":{"accept":"*/*","accept-encoding":"gzip, deflate","connection":"keep-alive","host":"localhost:3000","userAgent":"PostmanRuntime/7.6.0"},"v":1}
+{"level":30,"time":1548145481726,"msg":"Logging request!","pid":10122,"hostname":"titolulu-HP-Laptop-15q-ds0xxx","id":1,"v":1}
+{"level":50,"time":1548145481726,"msg":"error occurred on page!","pid":10122,"hostname":"titolulu-HP-Laptop-15q-ds0xxx","id":1,"error":{"message":"foo bar"},"v":1}
+{"level":30,"time":1548145481726,"msg":"Error lasted 1548145481.726","pid":10122,"hostname":"titolulu-HP-Laptop-15q-ds0xxx","id":1,"v":1}
+{"level":30,"time":1548145481730,"msg":"GET / -> Request finished in 7ms!","pid":10122,"hostname":"titolulu-HP-Laptop-15q-ds0xxx","id":1,"response":{"requestUrl":"http://localhost:3000/","method":"GET","statusCode":200,"statusMessage":"OK"},"responseTime":"7ms","v":1}
