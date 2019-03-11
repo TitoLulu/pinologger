@@ -10,3 +10,4 @@ $ node server.js
 $ npm test
 # pino-express-logger
 # pinologger
+# pino
